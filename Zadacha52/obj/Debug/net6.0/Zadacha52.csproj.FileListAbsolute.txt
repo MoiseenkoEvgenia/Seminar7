@@ -1,0 +1,15 @@
+/Users/evgenia/Desktop/Example7!!/Zadacha52/bin/Debug/net6.0/Zadacha52
+/Users/evgenia/Desktop/Example7!!/Zadacha52/bin/Debug/net6.0/Zadacha52.deps.json
+/Users/evgenia/Desktop/Example7!!/Zadacha52/bin/Debug/net6.0/Zadacha52.runtimeconfig.json
+/Users/evgenia/Desktop/Example7!!/Zadacha52/bin/Debug/net6.0/Zadacha52.dll
+/Users/evgenia/Desktop/Example7!!/Zadacha52/bin/Debug/net6.0/Zadacha52.pdb
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.csproj.AssemblyReference.cache
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.AssemblyInfoInputs.cache
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.AssemblyInfo.cs
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.csproj.CoreCompileInputs.cache
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.dll
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/refint/Zadacha52.dll
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.pdb
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/Zadacha52.genruntimeconfig.cache
+/Users/evgenia/Desktop/Example7!!/Zadacha52/obj/Debug/net6.0/ref/Zadacha52.dll
